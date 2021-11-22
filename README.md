@@ -4,7 +4,7 @@
 
 From São Paulo/Brazil, Igor Tomaz is a Backend Developer focuses on Node.js (Javascript & Typescript) and Computer Science student. He always try to build some new projects to improve his skills and he's try to learn a new thing every day. Every project is upload in **[GitHub](https://github.com/igortomaz-bit)**.
 
-Outside of development, Igor loves to play RPG, spend time with his friends and study Australian culture.
+Outside of development, Igor loves to play RPG, spend time with his friends and study different culture.
 
 <br>
 
