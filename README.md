@@ -10,6 +10,7 @@ Outside of development, Igor loves to play RPG, spend time with his friends and 
 
 ## 💻 Technologies
 
+- HTML / CSS
 - Node.js (Javascript & Typescript)
 - Nest.js
 - MongoDB
